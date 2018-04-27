@@ -2,7 +2,7 @@
 
 ### Description
 
-This is code I wrote for my Master's-level stats class, focused on big data and data analytics. The objective was to take a dataset, and analyze it using the statistical methods we learned in class.
+This project was for a Master's-level stats class, focused on big data and data analytics. The objective was to take a dataset, and analyze it using the statistical methods we learned in class.
 
 Please note that this is a group project, and we all contributed equally to the team! I, Justin Gould, worked with Mengmeng Zhang, Baylee Adams, Kyle Shope, and Tyler Lawrence to complete this project - where we contributed to all steps of the data analysis process: pre-processing/cleaning, question/objective formulation, analysis (t-test, ANOVA, logistic regression models), and communication.
 
